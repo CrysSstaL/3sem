@@ -1,0 +1,5 @@
+/Users/shishkin/Desktop/CLion/3Sem/cmake-build-debug/CMakeFiles/LAB17.dir
+/Users/shishkin/Desktop/CLion/3Sem/cmake-build-debug/CMakeFiles/LAB16.dir
+/Users/shishkin/Desktop/CLion/3Sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shishkin/Desktop/CLion/3Sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shishkin/Desktop/CLion/3Sem/cmake-build-debug/CMakeFiles/LAB15.dir
